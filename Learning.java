@@ -1,3 +1,3 @@
 1)Created text file from local and not yet pushed
-2)Modified master file at remote
-3)Added third line at remote
+2)Made changes at line 2 in Branch3
+3)Added third line at Branch3 local
